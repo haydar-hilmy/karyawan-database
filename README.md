@@ -73,7 +73,7 @@ AND
 #### Hasil Operasi
 
 | id_jabatan | nama_karyawan  | nama_jabatan | nama_departemen |
-| :------------ |:-----------------||:-----------------||:-----------------|
+| :--------- |:-------------- |:-----------------|:-----------------|
 | 1          | John     | Data Analyst Manager | Data Analyst |
 
 
