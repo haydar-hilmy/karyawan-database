@@ -76,6 +76,7 @@ AND
 | :------------ |:-----------------||:-----------------||:-----------------|
 | 1          | John     | Data Analyst Manager | Data Analyst |
 
+
 ## Screenshots
 
 hasil query pada phpmyadmin
